@@ -1,6 +1,8 @@
 # Cluster HAT
 
-Scripts and files used to build Cluster HAT images from Raspbian.
+Scripts and files used to build Cluster HAT images from Alpine Linux.
+
+Clusterctrl command tested to be working after adding py3-usb, i2ctools packages.
 
 ## Building Cluster HAT Images
 
